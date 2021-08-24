@@ -16,7 +16,7 @@ configuration.api_key['api-secret-key'] = 'YOUR KEY HERE'
 # Initialization
 # Set Any Required Values
 api_instance = deepsecurity.SoftwareInventoriesApi(deepsecurity.ApiClient(configuration))
-software_inventory = deepsecurity.SoftwareInventory(PARAMETERS GO HERE SEE DOCUMENTATION)
+software_inventory = deepsecurity.SoftwareInventory(PARAMETERS GO HERE SEE DOCUMENTATION Example: COMPUTER ID as integer)
 api_version = 'v1'
 
 try:
