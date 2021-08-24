@@ -1,6 +1,6 @@
 # C1WS_shared_ruleset_API
 
-1.	Download the Deep Security SDK (Deep Security Library).
+1.	Download the Deep Security SDK (already included as a zip in this repo).
 2.	Python SDK: https://cloudone.trendmicro.com/docs/workload-security/sdk-python/
 3.	API Reference: https://cloudone.trendmicro.com/docs/workload-security/api-reference/
 4.	Must have Python 3.4+
