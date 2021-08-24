@@ -1,8 +1,8 @@
 # C1WS_shared_ruleset_API
 
 1.	Download the Deep Security SDK (Deep Security Library).
-2.	API Reference: https://cloudone.trendmicro.com/docs/workload-security/api-reference/
-3.	Python SDK: https://cloudone.trendmicro.com/docs/workload-security/sdk-python/
+2.	Python SDK: https://cloudone.trendmicro.com/docs/workload-security/sdk-python/
+3.	API Reference: https://cloudone.trendmicro.com/docs/workload-security/api-reference/
 4.	Must have Python 3.4+
 5.	Use list_computers.py to find the ID of the computer so we can use that to generate a software inventory list.
 6.	Once we find the ID of the computer, we then use the create_software_inventory.py script to start building the inventory list of the computer (this should be a computer that matches the inventory of others).
